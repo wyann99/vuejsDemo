@@ -1,0 +1,18 @@
+{
+  "name": "shoppingcarts",
+  "version": "1.0.0",
+  "description": "开发简易购物车",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue2.0"
+  ],
+  "author": "Miya",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}
