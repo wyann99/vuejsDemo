@@ -7,10 +7,16 @@
 	</header>
 </template>
 
-<script>
+<style scoped>
+    .header ul li {
+        float: left;
+        margin-right: 20px;
+    }
+</style>
 
+<script>
 export default {
-  name: 'Header',
+  name: 'HomeHeader',
   data () {
       return {
         navs: [
